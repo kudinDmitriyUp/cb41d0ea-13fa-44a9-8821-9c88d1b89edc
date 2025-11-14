@@ -96,21 +96,21 @@ export default function Home() {
               id: "01",
               title: "Brand Strategy",
               description: "Build a powerful brand identity that stands out in the market and resonates with your target audience",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763138766365-waqqmfei.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763139216681-a8z5cr0q.jpg",
               imageAlt: "Brand strategy development"
             },
             {
               id: "02",
               title: "Digital Marketing",
               description: "Drive growth through data-driven digital campaigns across all major platforms and channels",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763138766365-waqqmfei.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763139216681-a8z5cr0q.jpg",
               imageAlt: "Digital marketing campaigns"
             },
             {
               id: "03",
               title: "Content Creation",
               description: "Engage your audience with compelling content that tells your story and drives action",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763138766365-waqqmfei.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34YrpHTNyoPHUh85bjA10KHfDge/uploaded-1763139216681-a8z5cr0q.jpg",
               imageAlt: "Content creation process"
             }
           ]}
